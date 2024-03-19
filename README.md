@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🌱
 
 <!--
 **c0de1sl1fe/c0de1sl1fe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
