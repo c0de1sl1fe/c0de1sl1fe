@@ -1,5 +1,6 @@
-# Hi there 🌱
+<h2> Hi there 🌱 </h2>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=c0de1sl1fe.c0de1sl1fe)
+<img align='right' src="https://giphy.com/embed/vzO0Vc8b2VBLi" width="230">
 
 ``` java
 class Myself implements Python, Java {
