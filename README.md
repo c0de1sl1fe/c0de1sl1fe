@@ -1,5 +1,4 @@
 <h2> Hi there 🌱 </h2>
-<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZ4eHZxZzc4Ym5wY3lmMHQ0amZoZ3l0MGI2ZjRsNGFtYTdkM25jcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="130"; border-radius: 10px>
 
 
 <p>Student of <a href="https://ssau.ru/">Samara University</a>
