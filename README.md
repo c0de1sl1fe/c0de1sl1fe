@@ -1,16 +1,48 @@
-### Hi there 🌱
+# Hi there 🌱
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
 
-<!--
-**c0de1sl1fe/c0de1sl1fe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+``` java
+public class Main {
+    public static void main(String[] args) {
+        Myself me = Myself.getMyself();
+        me.introduce();
+    }
+}
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Myself implements Python, Java {
+    private Map<String, String> info;
+    public static Myself getMyself() {
+        return new Myself();
+    }
+    private Myself() {
+        info = new LinkedHashMap<>();
+        info.put("name", "Yuri");
+        info.put("lang", "Eng, Ru");
+        info.put("level", "trainee");
+    }
+    public void introduce() {
+        System.out.println(info);
+        getPythonStack();
+        getJavaStack();
+    }
+    @Override
+    public void getPythonStack() {
+        System.out.println( "Python core" +
+                            "Matplotlib" +
+                            "NumPy" +
+                            "PyQt");
+    }
+    @Override
+    public void getJavaStack() {
+        System.out.println("JavaSE");
+    }
+}
+interface Python {
+    public void getPythonStack();
+}
+interface Java {
+    public void getJavaStack();
+}
+
+```
