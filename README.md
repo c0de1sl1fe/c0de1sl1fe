@@ -3,11 +3,11 @@
 </br>Now studing Java lang
 </p>
 
-| Left Column | Right Column |
-|————-|————–|
-| Content     | Content      |
-| Content     | Content      |
-| Content     | Content      |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 
 
 
