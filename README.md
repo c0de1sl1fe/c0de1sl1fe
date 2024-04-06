@@ -16,7 +16,7 @@ class Myself implements Python, Java {
         info = new LinkedHashMap<>();
         info.put("name", "Yuri");
         info.put("lang", "Eng, Ru");
-        info.put("level", "trainee");
+        info.put("level", "Junior");
     }
 
     @Override
