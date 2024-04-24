@@ -1,6 +1,6 @@
 <h2> Hi there 🌱 </h2>
 <p>Student of <a href="https://ssau.ru/">Samara University</a>
-</br>Now studing Java lang
+</br>Main lang: Java, Python
 </p>
 
 
