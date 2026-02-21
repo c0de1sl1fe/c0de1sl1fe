@@ -20,7 +20,7 @@
 
 <p align="left">
   - 🌱 I'm a Student of <a href="https://ssau.ru">Samara University</a><br>
-  - 🔭 I'm working as Java Backend SDE
+  - 🔭 I'm working as Java Backend SDE<br>
   - 📚 I'm currently learning microservices<br>
   - ⚡ In my free time I'm keyboard enthusiast<br>
   - 📫 How to reach me <a href="mailto:yury.krop@gmail.com">yury.krop@gmail.com</a>
